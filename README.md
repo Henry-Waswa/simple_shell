@@ -76,3 +76,5 @@ git clone https://github.com/Henry-Waswa/simple_shell.git
 ## Authors
 
 * **Henry W. Waswa** - [Henry-Waswa](https://github.com/Henry-Waswa).
+* **Charles C. Igboanugo** - [Charles](https://github.com/charlesigboanugo).
+
