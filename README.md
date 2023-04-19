@@ -65,6 +65,7 @@ git clone https://github.com/Henry-Waswa/simple_shell.git
 
 ```
 git clone https://github.com/Henry-Waswa/simple_shell.git
+```
 
 ## Compiling, Debugging and Runing
 
