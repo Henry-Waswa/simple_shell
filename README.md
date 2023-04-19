@@ -73,4 +73,5 @@ git clone https://github.com/Henry-Waswa/simple_shell.git
 ---
 
 ## Authors
+
 * **Henry w. Waswa** - [Henry-Waswa](https://github.com/Henry-Waswa).
